@@ -1,2 +1,1 @@
-function sayHello() { alert("You made it to My first app world!"); }
-
+ function sayHello() {alert("Hello! My app works!")};
